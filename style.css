@@ -1,3 +1,7 @@
+body{
+    text-align: center;
+}
+
 .heading{
     font-size: 23px;
     width: 100%;
@@ -37,5 +41,5 @@ canvas{
     border: 5px solid white;
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
-    margin: 150px;
+    margin-top: 130px;
 }
